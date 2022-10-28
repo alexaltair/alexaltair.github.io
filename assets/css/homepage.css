@@ -11,13 +11,13 @@ body > * {
   flex: 1 100%;
 }
 
-.twitter {
+.aside-link {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
 }
 
-.twitter > * {
+.aside-link > * {
   flex: 1;
 }
 
